@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/pesarmento/GitGitHub)
 
-![](https://github.com/pesarmento/GitGitHub/blob/main/Icone-.png)
+![](https://github.com/pesarmento/GitGitHub/blob/main/Icone-github.png)
 # Tutorial GIT e GitHub:
 Tutorial de uso das ferramentas Git e GitHub
 ## Autor:
